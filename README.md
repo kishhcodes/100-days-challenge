@@ -1,5 +1,3 @@
-You're right! I left out **Days 85 to 100**. Here's the full **100 Days of Azure DevOps** README with the final days included.  
-
 ---
 
 ## **🚀 100 Days of Azure DevOps**  
