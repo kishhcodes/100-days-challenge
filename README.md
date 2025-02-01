@@ -1,4 +1,4 @@
-Here's your **100 Days of Azure DevOps** plan in **README.md** format with **Day 1 to Day 100** listed sequentially. You can copy and paste this directly into your GitHub repo.  
+You're right! I left out **Days 85 to 100**. Here's the full **100 Days of Azure DevOps** README with the final days included.  
 
 ---
 
@@ -100,6 +100,22 @@ Each day, I will document my learning with hands-on projects and real-world use 
 | 82  | Final Project: Deploying a Secure AKS Cluster | ✅ |
 | 83  | Final Project: End-to-End DevOps Pipeline with Terraform & Azure | ✅ |
 | 84  | Wrap-Up & Next Steps | ✅ |
+| 85  | Advanced CI/CD: Self-Hosted Runners in GitHub Actions | ✅ |
+| 86  | DevOps: Managing Infrastructure with Pulumi | ✅ |
+| 87  | Kubernetes: Debugging Production Issues | ✅ |
+| 88  | Kubernetes: Advanced Traffic Routing with Linkerd | ✅ |
+| 89  | Kubernetes: Exploring Azure Kubernetes Fleet Manager | ✅ |
+| 90  | CI/CD: GitHub Actions + Azure Pipelines Hybrid Approach | ✅ |
+| 91  | Security: Image Scanning with Trivy | ✅ |
+| 92  | DevOps: Observability with OpenTelemetry | ✅ |
+| 93  | Networking: Cloud VPN & Private Link in Azure | ✅ |
+| 94  | Security: Azure Defender for Cloud Workloads | ✅ |
+| 95  | DevOps: Cost Optimization Strategies in Azure | ✅ |
+| 96  | Kubernetes: Chaos Engineering with Litmus | ✅ |
+| 97  | DevOps: AI for CloudOps (ML-Based Autoscaling) | ✅ |
+| 98  | Project: Deploying a Serverless App in Production | ✅ |
+| 99  | Project: Full Azure DevOps Automation with Terraform | ✅ |
+| 100 | 🎉 Conclusion & Reflection on the Journey | ✅ |
 
 ---
 
@@ -112,10 +128,3 @@ Each day, I will document my learning with hands-on projects and real-world use 
 - **Security & DevSecOps Best Practices**  
 
 ---
-
-## **🚀 Connect With Me**  
-📌 [LinkedIn](https://www.linkedin.com/in/yourprofile) | 📌 [GitHub](https://github.com/yourusername)  
-
----
-
-This structure will **keep you accountable** and **showcase your progress** on GitHub. 🚀
